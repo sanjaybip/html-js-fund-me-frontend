@@ -1,0 +1,8 @@
+{
+    "license": "MIT",
+    "name": "html-js-fund-me-frontend",
+    "author": "sanjaydefidev",
+    "devDependencies": {
+        "typescript": "^4.7.4"
+    }
+}
